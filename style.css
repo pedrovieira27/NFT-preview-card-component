@@ -1,0 +1,105 @@
+/*
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+*/
+/*
+
+
+*/
+.quadrado{
+    width: 250px;
+    height: 400px;
+    background: #14243C;
+    border-radius: 10px;
+    box-shadow: 0 0 2em #0b1525;
+    padding: 1.5em 0;
+
+}
+
+.fundo{
+    width: 100vw;
+    height: 100vh;
+    background: #0C1E31;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-eq{
+    width: 200px;
+    height: 200;
+    margin: 25px 25px;
+    border-radius: 10px;
+}
+
+.descricao{
+    font-family: 'Outfit', sans-serif;
+    margin-left: 25px;
+    color: White;
+}
+
+.texto{
+    font-family: 'Outfit', sans-serif;
+    margin-left: 25px;
+    padding-top: 10px;
+    color: rgba(219, 219, 219, 0.795);
+    font-size: 12px;
+    font-weight: 100;  
+}
+
+.linha{
+    padding: 05px;
+    margin-left: 20px;
+    
+}
+
+.eth{
+    color: #00FFF8;
+    font-family: 'Outfit', sans-serif;
+    font-size: 10px;
+    float: left; 
+    padding-top: 10px;
+}
+
+.clock{
+    color: #00FFF8;
+    font-family: 'Outfit', sans-serif;
+    font-size: 10px;
+    color: rgba(219, 219, 219, 0.795);
+    font-weight: 100; 
+    float: left; 
+    padding-left: 80px;
+    padding-top: 10px;
+}
+
+body{
+    margin: 0px;
+}
+
+hr{
+   size: 10px;
+}
+
+.img-perfil{
+    width: 25px;
+    height: 25px;
+    margin: 10px 5px;
+    border-radius: 100px;
+    float: left;
+    
+
+}
+
+.atribuicao{
+    font-family: 'Outfit', sans-serif;
+    color: rgba(219, 219, 219, 0.795);
+    font-size: 12px;
+    font-weight: 100; 
+    
+
+}
+
+a{
+    color: white
+}
